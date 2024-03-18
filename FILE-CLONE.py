@@ -1,2 +1,3 @@
 import os
-import person
+import person_Enc
+person_Enc.loging.()
